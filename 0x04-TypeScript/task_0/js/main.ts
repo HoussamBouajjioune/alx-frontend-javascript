@@ -1,5 +1,4 @@
 // task_0
-
 // Define the Student interface
 interface Student {
   firstName: string;
